@@ -125,8 +125,7 @@ D:0x40H:
 
 #### Manual Calculation
 
-![WhatsApp Image 2025-10-28 at 11 14 53_a56e01db](https://github.com/user-attachments/assets/3cf175d1-dabf-4ad8-a988-1686743edbfc)
-
+![WhatsApp Image 2025-10-28 at 11 18 24_0ad15482](https://github.com/user-attachments/assets/697fbab5-36b6-41ba-bb13-5b884b8012e1)
 
 **Result:**
 
